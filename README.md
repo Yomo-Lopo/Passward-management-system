@@ -39,5 +39,5 @@ Just copy code and paste it on any IDE and compile to get results.
 2.Run following command on powershell or terminal if you are CLI user.   
 ```bash
 gcc passward-management.c -o passward-manager.exe
-./passward-manager
+./passward-manager```
 ===========All Done 💻 🚀==========
