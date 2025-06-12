@@ -44,9 +44,9 @@ If you want to compile the C code manually:
 3. Compile using the terminal or PowerShell (for CLI users):
 
 
-
+``` bash
 gcc passward-management.c -o passward-manager.exe
 ./passward-manager
+```
 
 ✅ All Done! 💻🚀
-
