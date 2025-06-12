@@ -27,8 +27,7 @@ This demo was recorded using a mobile phone while the app ran on a Windows lapto
 ### 🖥️ Run on Windows
 1. Download the repository.
 2. Double-click `passward-management.exe`.
-3.   
-👉 [Application](https://github.com/Yomo-Lopo/Passward-management-system/blob/main/Passward-manager.exe)
+3.   👉 [Application](Passward-Manager.exe)
 4. Follow on-screen instructions to add, view, or manage entries.
 
 ### 🛠️ Compile Yourself (Optional)
