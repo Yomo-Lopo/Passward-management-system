@@ -16,7 +16,7 @@ This is a beginner-friendly C project that simulates a basic password manager th
 ## 🎥 Demo
 
 📹 **Watch the program in action:**  
-👉 [Watch the Demo](https://your-demo-link-here.com)
+👉 [Watch the Demo](https://github.com/Yomo-Lopo/Passward-management-system/blob/main/Demo.mp4)
 
 This demo was recorded using a mobile phone while the app ran on a Windows laptop.
 
