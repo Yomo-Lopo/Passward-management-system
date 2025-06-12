@@ -18,7 +18,7 @@ This is a beginner-friendly C project that simulates a basic password manager th
 📹 **Watch the program in action:**  
 👉 [Watch the Demo](https://github.com/Yomo-Lopo/Passward-management-system/blob/main/Demo.mp4)
 
-This demo was recorded using a mobile phone while the app ran on a Windows laptop.
+This demo was recorded using windows snipping tool and the app ran on a Windows laptop.
 
 ---
 
@@ -32,7 +32,10 @@ This demo was recorded using a mobile phone while the app ran on a Windows lapto
 
 ### 🛠️ Compile Yourself (Optional)
 If you want to compile the C code:
-
+1. Download C file from repository
+👉 [Code File](Passward-Manager.c)
+2.Run following command if you are CLI user.   
 ```bash
-gcc passward-management.c -o passward-manager
+gcc passward-management.c -o passward-manager. exe
 ./passward-manager
+---->Else just copy code and paste it on any IDE and compile to get results. 
