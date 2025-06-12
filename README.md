@@ -46,5 +46,5 @@ If you want to compile the C code manually:
 gcc passward-management.c -o passward-manager.exe
 ./passward-manager
 ```
-
-✅ All Done! 💻🚀
+∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞
+# ✅ All Done! 💻🚀
