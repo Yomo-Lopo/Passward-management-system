@@ -32,10 +32,12 @@ This demo was recorded using windows snipping tool and the app ran on a Windows 
 
 ### 🛠️ Compile Yourself (Optional)
 If you want to compile the C code:
-1. Download C file from repository
+Just copy code and paste it on any IDE and compile to get results. 
+--->Else
+1. Get C file code from repository and covert again to  c file
 👉 [Code File](Passward-Manager.c)
-2.Run following command if you are CLI user.   
+2.Run following command on powershell or terminal if you are CLI user.   
 ```bash
-gcc passward-management.c -o passward-manager. exe
+gcc passward-management.c -o passward-manager.exe
 ./passward-manager
----->Else just copy code and paste it on any IDE and compile to get results. 
+===========All Done 💻 🚀==========
